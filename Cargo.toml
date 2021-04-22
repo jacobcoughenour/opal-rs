@@ -1,0 +1,11 @@
+[package]
+name = "opal-rs"
+version = "0.1.0"
+authors = ["jacobcoughenour <me@jacobcoughenour.com>"]
+edition = "2018"
+
+[dependencies]
+vulkano = "0.22"
+vulkano-shaders = "0.22"
+vulkano-win = "0.22"
+winit = "0.24"
